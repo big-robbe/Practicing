@@ -33,14 +33,23 @@ h3 {
 
 .exptype {
     text-align: Left;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 .expdescription {
     text-align: center;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 .expdates {
     text-align: right;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
 }
 
 
