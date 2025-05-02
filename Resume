@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+    <head>
+        <title>John Deaton</title>
+    </head>
+    <header>
+        <H1 class="name">Johnathon Deaton MSN, RN</H1>
+        <h5 class="contact info">
+            Johnathondeaton@yahoo.com<br>
+            Cell Phone: 330-697-0779<br>
+            7295 N 127th Dr.<br>
+            Glendale, Arizona, 85307
+        </h5>
+    </header>
+    <body>
+        <div class="education">
+            <H3 class="education.title">Education</H3>
+            <p class="UofA"> Universtiy of Akron</p>
+            <h5 class="UofA">Bachelors of Science in Nursing</h5>
+            <p class="UofA.gpa">Grade Point Average: 3.5/4.0; Dean’s List: 7 Semesters, Cum Laude </p>
+            <p class="UofA.dates">August 2011- May 2015</p>
+            <p class="GCU">Grand Canyon University</p>
+            <h5 class="GCU">Masters of Science in Nursing</h5>
+            <p class="GCU.gpa">Grade Point Average: 3.91/4.0</p>
+            <p class="GCU.dates">September 2018-August 2021</p>
+        </div>
+        <div class="Clinical_exp">
+            
+        </div>
+    </body>
+</html>
