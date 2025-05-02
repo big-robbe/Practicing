@@ -27,7 +27,7 @@ body, h1, h2, h3, p, ul, ol, li, a {
     text-align: right;
 }
 
-h3 .clinical_exp {
+h3.clinicalexp {
     text-align: center;
 }
 
@@ -43,6 +43,6 @@ h3 .clinical_exp {
     text-align: right;
 }
 
-h3 .workexp {
+h3.workexp {
     text-align: center;
 }
