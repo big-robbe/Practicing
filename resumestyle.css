@@ -1,0 +1,21 @@
+/* Resume CSS 
+*/
+
+/* General reset for consistent styling across browsers */
+body, h1, h2, h3, p, ul, ol, li, a {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.name {
+    text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+    }
+
+.UofA.dates, .GCU.dates {
+    text-align: right;
+}
