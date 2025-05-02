@@ -15,16 +15,40 @@
     <body>
         <div class="education">
             <H3 class="education.title">Education</H3>
-            <p class="UofA"> Universtiy of Akron</p>
+            <p class="UofA"> Universtiy of Akron, Akron, Ohio</p>
             <h5 class="UofA">Bachelors of Science in Nursing</h5>
             <p class="UofA.gpa">Grade Point Average: 3.5/4.0; Dean’s List: 7 Semesters, Cum Laude </p>
             <p class="UofA.dates">August 2011- May 2015</p>
-            <p class="GCU">Grand Canyon University</p>
+            <p class="GCU">Grand Canyon University, Phoenix, Arizona</p>
             <h5 class="GCU">Masters of Science in Nursing</h5>
             <p class="GCU.gpa">Grade Point Average: 3.91/4.0</p>
             <p class="GCU.dates">September 2018-August 2021</p>
         </div>
         <div class="Clinical_exp">
+            <h3>Clinical Experience</h3>
+            <ul class="exp.type">
+                <li>Medical-Surgical</li>
+                <li>Emergency Department</li>
+                <li>Charge Nurse</li>
+                <li>Clinical Education Specialist</li>
+                <li>House Supervisor</li>
+            </ul>
+            <ul class="exp.description">
+                <li>Post-Surgical Orthopaedic Patients</li>
+                <li>Level One - Four Trauma Centers</li>
+                <li>Emergency Department</li>
+                <li>Emergency Department</li>  
+                <li>Rural Hospital</li>
+            </ul>
+            <ul class="exp.dates">
+                <li>August 2015 - November 2016</li>
+                <li>November 2016 - Current</li>
+                <li>September 2022 - February 2024</li>
+                <li>February 2024 - May 2024</li>
+                <li>May 2024 - July 2024</li>
+            </ul>
+        </div>
+        <div class="work.exp">
             
         </div>
     </body>
