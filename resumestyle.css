@@ -12,14 +12,14 @@ body, h1, h2, h3, p, ul, ol, li, a {
     text-align: center;
 }
 
-.contact.info {
+.contactinfo {
     text-align: center;
     }
 
-.UofA.dates .GCU.dates {
+.UofAdates .GCUdates {
     text-align: right;
 }
-.education.tite {
+.educationtitle {
     text-align: center;
 }
 
@@ -27,22 +27,22 @@ body, h1, h2, h3, p, ul, ol, li, a {
     text-align: right;
 }
 
-h3.clinical_exp {
+h3 .clinical_exp {
     text-align: center;
 }
 
-.exp.type {
+.exptype {
     text-align: Left;
 }
 
-.exp.description {
+.expdescription {
     text-align: center;
 }
 
-.exp.dates {
+.expdates {
     text-align: right;
 }
 
-h3.work.exp {
+h3 .workexp {
     text-align: center;
 }
