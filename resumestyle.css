@@ -32,21 +32,18 @@ h3 {
 }
 
 .exptype {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    display: inline-block;
+   
 }
 
 .expdescription {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    display: inline-block;
+    
 }
 
 .expdates {
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+    display: inline-block;
+   
 }
 
 .Clinicalexp ul {
