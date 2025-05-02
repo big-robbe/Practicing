@@ -33,16 +33,17 @@ h3 {
 
 .exptype {
     display: inline-block;
-   
+    text-align: left;
 }
 
 .expdescription {
     display: inline-block;
-    
+    text-align: center;
 }
 
 .expdates {
     display: inline-block;
+    text-align: right;
    
 }
 
