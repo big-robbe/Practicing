@@ -13,6 +13,7 @@
         </h5>
     </header>
     <body>
+        <!--Education-->
         <div class="education">
             <H3 class="education.title">Education</H3>
             <p class="UofA"> Universtiy of Akron, Akron, Ohio</p>
@@ -24,6 +25,7 @@
             <p class="GCU.gpa">Grade Point Average: 3.91/4.0</p>
             <p class="GCU.dates">September 2018-August 2021</p>
         </div>
+        <!--Clinical Experience-->
         <div class="Clinical_exp">
             <h3>Clinical Experience</h3>
             <ul class="exp.type">
@@ -48,8 +50,64 @@
                 <li>May 2024 - July 2024</li>
             </ul>
         </div>
+        <!--Work experience-->
         <div class="work.exp">
-            
+            <h3>Work Experience</h3>
+                <H4 class="aya">Registered Nurse</p>
+                    <h5>Aya HealthCare</h5>
+                        <p class="aya.date">December 2019 - Current</p>
+                        <ul class="aya.exp">
+                            <li>Emergency Department Traveling Nurse</li>
+                            <li>Charge Nurse in the Emergency Room</li>
+                            <li>Clinical Education Specialist</li>
+                            <li>House Supervisor</li>
+                        </ul>
+                <h4 class="HH">Registered Nurse</h4>
+                    <h5>HonorHealth Deer Valley Medical Center, Phoenix, Arizona</h5>
+                        <p class="HH.date">May 2019 - November 2019</p>
+                        <ul class="HH.exp">
+                            <li>Provide care to Emergency Department patients</li>
+                        </ul>
+                <h4 class="Banner">Registered Nurse</h4>
+                    <h5>Banner University Medical Center-Phoenix, Phoenix, Arizona</h5>
+                        <p class="banner.date">July 2017 - May 2019</p>
+                        <ul class="banner.exp">
+                            <li>Provide care to Emergency Department patients</li>
+                        </ul>
+                <h4 class="AGMC">Registered Nurse</h4>
+                    <h5>Cleveland Clinic Akron General Medical Center, Akron, Ohio</h5>
+                        <p class="agmc.date">August 2015 - June 2017</p>
+                        <ul class="agmc.exp">
+                            <li>Provide care to medical and surgical patients</li>
+                            <li>Provide care to Orthopaedic patients day of surgery</li>
+                            <li>Provide care to Emergency Department patients </li>
+                        </ul>
+        </div>
+        <!--Certifications and skills-->
+        <div class="skills">
+            <h3 class="skills">Certifications and Skills</h3>
+                <ul class="skills">
+                    <li>Registered Nurse</li>
+                    <li>Advanced Cardiovascular Life Support certified through the American Heart Association</li>
+                    <li>Pediatric Advanced Life Support certified through the American Heart Association</li>
+                    <li>Neonatal Resuscitation Program certified through the American Academy of Pediatrics</li>
+                    <li>Basic Life Support CPR certified through the American Heart Association</li>
+                    <li>Successful completion of the AACN Essentials of Critical Care Orientation 3.0</li>
+                    <li>NIH Stroke Scale Certification</li>
+                    <li>Trauma Nursing Core Course certified through the Emergency Nurses Association</li>
+                    <li>Managing internal and external disasters in a rural hospital</li>
+                    <li>Managing Staffing on a day to day basis based on acuity and census of the hospital</li>
+                    <li>Leading Rapid Response Teams and Code Blue Response Teams</li>
+                    <li>Education and Training of New Graduate RNs</li>
+                    <li>Proficient in multiple EMRs including;</li>
+                        <ul class="emr">
+                            <li>McKession</li>
+                            <li>Epic</li>
+                            <li>PICIS</li>
+                            <li>Cerner</li>
+                            <li>MedHost</li>
+                        </ul>
+                </ul>
         </div>
     </body>
 </html>
