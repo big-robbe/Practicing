@@ -16,7 +16,7 @@ body, h1, h2, h3, p, ul, ol, li, a {
     text-align: center;
     }
 
-.UofAdates .GCUdates {
+.UofAdates, .GCUdates {
     text-align: right;
 }
 .educationtitle {
@@ -27,7 +27,7 @@ body, h1, h2, h3, p, ul, ol, li, a {
     text-align: right;
 }
 
-h3.clinicalexp {
+h3.Clinicalexp {
     text-align: center;
 }
 
